@@ -1,10 +1,67 @@
 fileFormatVersion: 2
-guid: d01324dd756a26c4c80d81608f84e823
+guid: 30b874de1bf98d34caa763a4cefbd41d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1782145238111149975
-    second: Floor_Flora_01-128x64_0
+      213: -1192864437372608133
+    second: GRASS+_0
+  - first:
+      213: 7155043606101108017
+    second: GRASS+_1
+  - first:
+      213: 8764359631414877056
+    second: GRASS+_2
+  - first:
+      213: -4975746312981292182
+    second: GRASS+_3
+  - first:
+      213: -6585302301986883572
+    second: GRASS+_4
+  - first:
+      213: 4128075670219237936
+    second: GRASS+_5
+  - first:
+      213: 1769084892239955220
+    second: GRASS+_6
+  - first:
+      213: 7090867223484276696
+    second: GRASS+_7
+  - first:
+      213: -1514300097492727181
+    second: GRASS+_8
+  - first:
+      213: -7888024100390124803
+    second: GRASS+_9
+  - first:
+      213: 3031392968005161223
+    second: GRASS+_10
+  - first:
+      213: -4080904172534576895
+    second: GRASS+_11
+  - first:
+      213: -4634256944933499816
+    second: GRASS+_12
+  - first:
+      213: -3691522663441228274
+    second: GRASS+_13
+  - first:
+      213: -5121152197835043065
+    second: GRASS+_14
+  - first:
+      213: -3824058889250364611
+    second: GRASS+_15
+  - first:
+      213: 8657438758783793241
+    second: GRASS+_16
+  - first:
+      213: -5159204683543844637
+    second: GRASS+_17
+  - first:
+      213: 8206652840429324285
+    second: GRASS+_18
+  - first:
+      213: -4557890332657339634
+    second: GRASS+_19
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,49 +157,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Floor_Flora_01-128x64_0
+      name: GRASS+_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 384
-        height: 384
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline:
-      - - {x: 2.5, y: 32}
-        - {x: -61.5, y: 1}
-        - {x: 0.5, y: -31}
-        - {x: 63.5, y: 3}
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9602b30295c8447e0800000000000000
-      internalID: -1782145238111149975
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Floor_Flora_01-128x64_1
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 358
-        width: 6
-        height: 26
+        x: 308
+        y: 115
+        width: 40
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 08e04b46eb1141a4690816c7b5af2f50
-      internalID: 461545387
+      spriteID: b71a5314d18127fe0800000000000000
+      internalID: -1192864437372608133
       vertices: []
       indices: 
       edges: []
@@ -151,7 +182,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 718105244755ec14695fbf38765feeae
+    spriteID: b9bfb76516b6dd441926d2cd62ca5c18
     internalID: 0
     vertices: []
     indices: 
@@ -161,8 +192,26 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Floor_Flora_01-128x64_0: -1782145238111149975
-      Floor_Flora_01-128x64_1: 461545387
+      GRASS+_0: -1192864437372608133
+      GRASS+_1: 7155043606101108017
+      GRASS+_10: 3031392968005161223
+      GRASS+_11: -4080904172534576895
+      GRASS+_12: -4634256944933499816
+      GRASS+_13: -3691522663441228274
+      GRASS+_14: -5121152197835043065
+      GRASS+_15: -3824058889250364611
+      GRASS+_16: 8657438758783793241
+      GRASS+_17: -5159204683543844637
+      GRASS+_18: 8206652840429324285
+      GRASS+_19: -4557890332657339634
+      GRASS+_2: 8764359631414877056
+      GRASS+_3: -4975746312981292182
+      GRASS+_4: -6585302301986883572
+      GRASS+_5: 4128075670219237936
+      GRASS+_6: 1769084892239955220
+      GRASS+_7: 7090867223484276696
+      GRASS+_8: -1514300097492727181
+      GRASS+_9: -7888024100390124803
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
